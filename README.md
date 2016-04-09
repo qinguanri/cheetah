@@ -2,7 +2,7 @@
 A seckill system based on openresty
 
 
-![logo](images/logo.png)
+<center> ![logo](images/logo.jpg) </center>
 
 # Design
 
